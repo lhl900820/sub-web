@@ -380,7 +380,7 @@ export default {
         clientType: "",
         customBackend: "https://2.longarm.ga/sub?",
         shortType: "https://s.longarm.ga/short",
-        remoteConfig: "https://raw.githubusercontent.com/Meilieage/webcdn/main/rule/Area_Media_NoAuto.ini",
+        remoteConfig: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini",
         excludeRemarks: "",
         includeRemarks: "",
         filename: "",
