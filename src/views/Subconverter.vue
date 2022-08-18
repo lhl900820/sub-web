@@ -374,6 +374,7 @@ export default {
                 value: "config/ACL4SSR_WithGFW.ini"
               }
             ]
+           },
       form: {
         sourceSubUrl: "",
         clientType: "",
@@ -387,7 +388,7 @@ export default {
         nodeList: false,
         extraset: false,
         sort: false,
-        udp: true,
+        udp: false,
         tfo: false,
         scv: false,
         fdn: false,
