@@ -291,7 +291,7 @@ export default {
             options: [
               {
                 label: "ACL_默认版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online.ini"
+                value: "https://raw.githubusercontent.com/lhl900820/subconverter/master/base/config/ACL4SSR_Online.ini"
               },
               {
                 label: "ACL_无测速版",
